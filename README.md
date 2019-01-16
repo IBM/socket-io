@@ -17,7 +17,7 @@ hangs.  However in .NET 4.7 handshake succeeds and `emit()` works just fine.
 We are open to contributions and fixes for why this library fails in ASP.NET
 Core!
 
-##Support
+## Support
 
 For ideas and/or help, ping us on Slack: 
 https://ibm-security.slack.com/messages/CFELND99Q
