@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ibm.socket-io.client", "ibm.socket-io.client\ibm.socket-io.client.csproj", "{F10DE765-5B41-431B-A3D4-C6FA8FD33F9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ibm.webclient", "ibm.webclient\ibm.webclient.csproj", "{311AF108-70E3-4B01-940E-36853DC3F43D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ibm.socketio.tests", "ibm.socketio.tests\ibm.socketio.tests.csproj", "{68AFA42B-AEB7-40D3-B652-6B7C44834ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F10DE765-5B41-431B-A3D4-C6FA8FD33F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10DE765-5B41-431B-A3D4-C6FA8FD33F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10DE765-5B41-431B-A3D4-C6FA8FD33F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10DE765-5B41-431B-A3D4-C6FA8FD33F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{311AF108-70E3-4B01-940E-36853DC3F43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{311AF108-70E3-4B01-940E-36853DC3F43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{311AF108-70E3-4B01-940E-36853DC3F43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{311AF108-70E3-4B01-940E-36853DC3F43D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68AFA42B-AEB7-40D3-B652-6B7C44834ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68AFA42B-AEB7-40D3-B652-6B7C44834ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68AFA42B-AEB7-40D3-B652-6B7C44834ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68AFA42B-AEB7-40D3-B652-6B7C44834ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

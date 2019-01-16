@@ -1,0 +1,957 @@
+﻿[
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--78a3dce3-7650-787c-3439-828af788b851",
+    "collectionTitle": "Potenital APT29 Phishing Campaign Identified",
+    "collectionWikiContent": "",
+    "collectionId": "78a3dce37650787c3439828af788b851",
+    "owner": "",
+    "tags": [
+      "x-industry:gov",
+      "phishing",
+      "x-industry:media",
+      "xftas",
+      "advisory",
+      "campaign",
+      "malware",
+      "email",
+      "x-industry:natlgov",
+      "x-industry:transport",
+      "x-risk:40",
+      "x-industry:healthcare"
+    ],
+    "tlp": "",
+    "created": "2018-12-18T14:05:03.399Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 40,
+    "x_ibm_relevance_score": 40,
+    "x_ibm_affected_industries": [
+      {
+        "longName": "Government",
+        "shortName": "gov",
+        "key": "gov"
+      },
+      {
+        "longName": "Media",
+        "shortName": "media",
+        "key": "media"
+      },
+      {
+        "longName": "Natlgov",
+        "shortName": "natlgov",
+        "key": "natlgov"
+      },
+      {
+        "longName": "Transportation Services",
+        "shortName": "transport",
+        "key": "transport"
+      },
+      {
+        "longName": "Health Care",
+        "shortName": "healthcare",
+        "key": "health"
+      }
+    ],
+    "x_ibm_affected_countries": [],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--6f8b71df-60fd-1d07-c565-bbf20cd9b5a8",
+    "collectionTitle": "Operation Sharpshooter",
+    "collectionWikiContent": "",
+    "collectionId": "6f8b71df60fd1d07c565bbf20cd9b5a8",
+    "owner": "",
+    "tags": [
+      "x-industry:finance",
+      "campaign",
+      "malware",
+      "x-industry:util",
+      "x-industry:gov",
+      "x-risk:36",
+      "xftas",
+      "advisory"
+    ],
+    "tlp": "",
+    "created": "2018-12-18T13:59:00.315Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 36,
+    "x_ibm_relevance_score": 36,
+    "x_ibm_affected_industries": [
+      {
+        "longName": "Finance and Insurance",
+        "shortName": "finance",
+        "key": "fin"
+      },
+      {
+        "longName": "Util",
+        "shortName": "util",
+        "key": "util"
+      },
+      {
+        "longName": "Government",
+        "shortName": "gov",
+        "key": "gov"
+      }
+    ],
+    "x_ibm_affected_countries": [],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--94007ddb-f029-8bd0-1f11-f994f37a3b45",
+    "collectionTitle": "Cryptomining Campaign Exploits Elasticsearch Vulnerabilities",
+    "collectionWikiContent": "",
+    "collectionId": "94007ddbf0298bd01f11f994f37a3b45",
+    "owner": "",
+    "tags": [
+      "cryptocurrency",
+      "xftas",
+      "campaign",
+      "cryptomining",
+      "x-risk:42",
+      "vulnerability",
+      "advisory"
+    ],
+    "tlp": "",
+    "created": "2018-12-18T13:53:15.011Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 42,
+    "x_ibm_relevance_score": 42,
+    "x_ibm_affected_industries": [],
+    "x_ibm_affected_countries": [],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--a5d5babe-50ca-d6d6-b924-f5dcb2360e6f",
+    "collectionTitle": "Satan Variant Targeting Financial Sector",
+    "collectionWikiContent": "",
+    "collectionId": "a5d5babe50cad6d6b924f5dcb2360e6f",
+    "owner": "",
+    "tags": [
+      "advisory",
+      "malware",
+      "xftas",
+      "x-industry:finance",
+      "worm",
+      "ransomware",
+      "x-risk:35",
+      "cryptominer"
+    ],
+    "tlp": "",
+    "created": "2018-12-18T13:51:59.095Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 35,
+    "x_ibm_relevance_score": 35,
+    "x_ibm_affected_industries": [
+      {
+        "longName": "Finance and Insurance",
+        "shortName": "finance",
+        "key": "fin"
+      }
+    ],
+    "x_ibm_affected_countries": [],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--f711ac68-2a57-8455-8fcc-7bca2b464f50",
+    "collectionTitle": "Shamoon3/Disttrack Campaign Targets Oil and Gas",
+    "collectionWikiContent": "",
+    "collectionId": "f711ac682a5784558fcc7bca2b464f50",
+    "owner": "",
+    "tags": [
+      "xftas",
+      "campaign",
+      "x-industry:oilgas",
+      "malware",
+      "worm",
+      "x-risk:55",
+      "x-location:middle-east",
+      "threat-actor",
+      "advisory"
+    ],
+    "tlp": "",
+    "created": "2018-12-17T20:44:58.205Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 55,
+    "x_ibm_relevance_score": 55,
+    "x_ibm_affected_industries": [
+      {
+        "longName": "Oilgas",
+        "shortName": "oilgas",
+        "key": "oilgas"
+      }
+    ],
+    "x_ibm_affected_countries": [
+      {
+        "longName": "Bahrain",
+        "shortName": "BH"
+      },
+      {
+        "longName": "Egypt",
+        "shortName": "EG"
+      },
+      {
+        "longName": "Iraq",
+        "shortName": "IQ"
+      },
+      {
+        "longName": "Israel",
+        "shortName": "IL"
+      },
+      {
+        "longName": "Jordan",
+        "shortName": "JO"
+      },
+      {
+        "longName": "Kuwait",
+        "shortName": "KW"
+      },
+      {
+        "longName": "Lebanon",
+        "shortName": "LB"
+      },
+      {
+        "longName": "Oman",
+        "shortName": "OM"
+      },
+      {
+        "longName": "Palestine, State of",
+        "shortName": "PS"
+      },
+      {
+        "longName": "Qatar",
+        "shortName": "QA"
+      },
+      {
+        "longName": "Saudi Arabia",
+        "shortName": "SA"
+      },
+      {
+        "longName": "Syran Arab Republic",
+        "shortName": "SY"
+      },
+      {
+        "longName": "Turkey",
+        "shortName": "TR"
+      },
+      {
+        "longName": "United Arab Emirates",
+        "shortName": "AE"
+      },
+      {
+        "longName": "Yemen",
+        "shortName": "YE"
+      }
+    ],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--1f461221-4a5a-2644-e036-35c3efb369f8",
+    "collectionTitle": "Magecart Group 11 Attacks Vision Direct UK",
+    "collectionWikiContent": "",
+    "collectionId": "1f4612214a5a2644e03635c3efb369f8",
+    "owner": "",
+    "tags": [
+      "malware",
+      "xftas",
+      "skimming",
+      "advisory",
+      "x-risk:59"
+    ],
+    "tlp": "",
+    "created": "2018-12-17T13:54:00.252Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 59,
+    "x_ibm_relevance_score": 59,
+    "x_ibm_affected_industries": [],
+    "x_ibm_affected_countries": [],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--5bd4f1e8-2c66-3d19-5570-be27a6481b14",
+    "collectionTitle": "Think Tanks, Non-Profits, Public Sector Attacked By Unidentified Attackers",
+    "collectionWikiContent": "",
+    "collectionId": "5bd4f1e82c663d195570be27a6481b14",
+    "owner": "",
+    "tags": [
+      "spearphishing",
+      "x-industry:edu",
+      "x-risk:46",
+      "xftas",
+      "x-industry:oilgas",
+      "campaign",
+      "advisory",
+      "malware",
+      "threat-group"
+    ],
+    "tlp": "",
+    "created": "2018-12-14T21:54:54.617Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 46,
+    "x_ibm_relevance_score": 46,
+    "x_ibm_affected_industries": [
+      {
+        "longName": "Education",
+        "shortName": "edu",
+        "key": "edu"
+      },
+      {
+        "longName": "Oilgas",
+        "shortName": "oilgas",
+        "key": "oilgas"
+      }
+    ],
+    "x_ibm_affected_countries": [],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--1497abea-e5dc-3f03-ea46-4b8a810b997d",
+    "collectionTitle": "Brexit Themed Malspam Campaign Targets UK",
+    "collectionWikiContent": "",
+    "collectionId": "1497abeae5dc3f03ea464b8a810b997d",
+    "owner": "",
+    "tags": [
+      "x-risk:36",
+      "malware",
+      "advisory",
+      "xftas",
+      "campaign",
+      "x-industry:europe"
+    ],
+    "tlp": "",
+    "created": "2018-12-14T16:46:59.324Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 36,
+    "x_ibm_relevance_score": 36,
+    "x_ibm_affected_industries": [
+      {
+        "longName": "Europe",
+        "shortName": "europe",
+        "key": "europe"
+      }
+    ],
+    "x_ibm_affected_countries": [],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--d75b3b9c-6703-9104-bfcb-c1190f03561f",
+    "collectionTitle": "DHL-Themed Campaign Spreading Ursnif",
+    "collectionWikiContent": "",
+    "collectionId": "d75b3b9c67039104bfcbc1190f03561f",
+    "owner": "",
+    "tags": [
+      "xftas",
+      "malspam",
+      "advisory",
+      "phishing",
+      "x-risk:40",
+      "x-location:europe",
+      "campaign",
+      "malware"
+    ],
+    "tlp": "",
+    "created": "2018-12-14T16:22:21.976Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 40,
+    "x_ibm_relevance_score": 40,
+    "x_ibm_affected_industries": [],
+    "x_ibm_affected_countries": [
+      {
+        "longName": "Åland Islands",
+        "shortName": "AX"
+      },
+      {
+        "longName": "Albania",
+        "shortName": "AL"
+      },
+      {
+        "longName": "Andorra",
+        "shortName": "AD"
+      },
+      {
+        "longName": "Austria",
+        "shortName": "AT"
+      },
+      {
+        "longName": "Belgium",
+        "shortName": "BE"
+      },
+      {
+        "longName": "Bosnia and Herzegovina",
+        "shortName": "BA"
+      },
+      {
+        "longName": "Bulgaria",
+        "shortName": "BG"
+      },
+      {
+        "longName": "Croatia",
+        "shortName": "HR"
+      },
+      {
+        "longName": "Cyprus",
+        "shortName": "CY"
+      },
+      {
+        "longName": "Czechia",
+        "shortName": "CZ"
+      },
+      {
+        "longName": "Denmark",
+        "shortName": "DE"
+      },
+      {
+        "longName": "Estonia",
+        "shortName": "EE"
+      },
+      {
+        "longName": "Faroe Islands",
+        "shortName": "FO"
+      },
+      {
+        "longName": "Finland",
+        "shortName": "FI"
+      },
+      {
+        "longName": "France",
+        "shortName": "FR"
+      },
+      {
+        "longName": "Germany",
+        "shortName": "DE"
+      },
+      {
+        "longName": "Gibraltar",
+        "shortName": "GI"
+      },
+      {
+        "longName": "Greece",
+        "shortName": "GR"
+      },
+      {
+        "longName": "Guernsey",
+        "shortName": "GG"
+      },
+      {
+        "longName": "Holy See",
+        "shortName": "VA"
+      },
+      {
+        "longName": "Hungary",
+        "shortName": "HU"
+      },
+      {
+        "longName": "Iceland",
+        "shortName": "IS"
+      },
+      {
+        "longName": "Ireland",
+        "shortName": "IE"
+      },
+      {
+        "longName": "Isle of Man",
+        "shortName": "IM"
+      },
+      {
+        "longName": "Italy",
+        "shortName": "IT"
+      },
+      {
+        "longName": "Jersey",
+        "shortName": "JE"
+      },
+      {
+        "longName": "Latvia",
+        "shortName": "LV"
+      },
+      {
+        "longName": "Liechtenstein",
+        "shortName": "LI"
+      },
+      {
+        "longName": "Lithuania",
+        "shortName": "LT"
+      },
+      {
+        "longName": "Luxembourg",
+        "shortName": "LU"
+      },
+      {
+        "longName": "Macedonia, the former Yugoslav Republic of",
+        "shortName": "MK"
+      },
+      {
+        "longName": "Malta",
+        "shortName": "MT"
+      },
+      {
+        "longName": "Moldova, Republic of",
+        "shortName": "MD"
+      },
+      {
+        "longName": "Monaco",
+        "shortName": "MC"
+      },
+      {
+        "longName": "Montenegro",
+        "shortName": "ME"
+      },
+      {
+        "longName": "Netherlands",
+        "shortName": "NL"
+      },
+      {
+        "longName": "Norway",
+        "shortName": "NO"
+      },
+      {
+        "longName": "Poland",
+        "shortName": "PL"
+      },
+      {
+        "longName": "Portugal",
+        "shortName": "PT"
+      },
+      {
+        "longName": "Romania",
+        "shortName": "RO"
+      },
+      {
+        "longName": "San Marino",
+        "shortName": "SM"
+      },
+      {
+        "longName": "Serbia",
+        "shortName": "RS"
+      },
+      {
+        "longName": "Slovakia",
+        "shortName": "SK"
+      },
+      {
+        "longName": "Slovenia",
+        "shortName": "SI"
+      },
+      {
+        "longName": "Spain",
+        "shortName": "ES"
+      },
+      {
+        "longName": "Svalbard and Jan Mayen",
+        "shortName": "SJ"
+      },
+      {
+        "longName": "Sweden",
+        "shortName": "SE"
+      },
+      {
+        "longName": "Switzerland",
+        "shortName": "CH"
+      },
+      {
+        "longName": "United Kingdom of Great Britain and Northern Ireland",
+        "shortName": "GB"
+      }
+    ],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--f302400f-319b-ed4c-b967-4c55cc7caa1f",
+    "collectionTitle": "Charming Kitten - Phishing Attacks",
+    "collectionWikiContent": "",
+    "collectionId": "f302400f319bed4cb9674c55cc7caa1f",
+    "owner": "",
+    "tags": [
+      "advisory",
+      "x-risk:33",
+      "phishing",
+      "threat-actor",
+      "x-location:middle-east",
+      "xftas",
+      "campaign"
+    ],
+    "tlp": "",
+    "created": "2018-12-14T14:15:05.254Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 33,
+    "x_ibm_relevance_score": 33,
+    "x_ibm_affected_industries": [],
+    "x_ibm_affected_countries": [
+      {
+        "longName": "Bahrain",
+        "shortName": "BH"
+      },
+      {
+        "longName": "Egypt",
+        "shortName": "EG"
+      },
+      {
+        "longName": "Iraq",
+        "shortName": "IQ"
+      },
+      {
+        "longName": "Israel",
+        "shortName": "IL"
+      },
+      {
+        "longName": "Jordan",
+        "shortName": "JO"
+      },
+      {
+        "longName": "Kuwait",
+        "shortName": "KW"
+      },
+      {
+        "longName": "Lebanon",
+        "shortName": "LB"
+      },
+      {
+        "longName": "Oman",
+        "shortName": "OM"
+      },
+      {
+        "longName": "Palestine, State of",
+        "shortName": "PS"
+      },
+      {
+        "longName": "Qatar",
+        "shortName": "QA"
+      },
+      {
+        "longName": "Saudi Arabia",
+        "shortName": "SA"
+      },
+      {
+        "longName": "Syran Arab Republic",
+        "shortName": "SY"
+      },
+      {
+        "longName": "Turkey",
+        "shortName": "TR"
+      },
+      {
+        "longName": "United Arab Emirates",
+        "shortName": "AE"
+      },
+      {
+        "longName": "Yemen",
+        "shortName": "YE"
+      }
+    ],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--de3bc9dc-cada-585d-dc45-c4093a0093e8",
+    "collectionTitle": "TA505 Malspam Campaign Targeting US Retail Industry",
+    "collectionWikiContent": "",
+    "collectionId": "de3bc9dccada585ddc45c4093a0093e8",
+    "owner": "",
+    "tags": [
+      "xftas",
+      "malware",
+      "x-risk:42",
+      "x-location:north-america",
+      "threat-actor",
+      "x-industry:retail",
+      "advisory",
+      "campaign"
+    ],
+    "tlp": "",
+    "created": "2018-12-13T15:07:15.663Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 42,
+    "x_ibm_relevance_score": 42,
+    "x_ibm_affected_industries": [
+      {
+        "longName": "Retail",
+        "shortName": "retail",
+        "key": "retail"
+      }
+    ],
+    "x_ibm_affected_countries": [
+      {
+        "longName": "Belize",
+        "shortName": "BZ"
+      },
+      {
+        "longName": "Costa Rica",
+        "shortName": "CR"
+      },
+      {
+        "longName": "El Salvador",
+        "shortName": "SV"
+      },
+      {
+        "longName": "Guatemala",
+        "shortName": "GT"
+      },
+      {
+        "longName": "Honduras",
+        "shortName": "HN"
+      },
+      {
+        "longName": "Mexico",
+        "shortName": "MX"
+      },
+      {
+        "longName": "Nicaragua",
+        "shortName": "NI"
+      },
+      {
+        "longName": "Panama",
+        "shortName": "PA"
+      },
+      {
+        "longName": "Bermuda",
+        "shortName": "BM"
+      },
+      {
+        "longName": "Canada",
+        "shortName": "CA"
+      },
+      {
+        "longName": "Greenland",
+        "shortName": "GL"
+      },
+      {
+        "longName": "Saint Pierre and Miquelon",
+        "shortName": "PM"
+      },
+      {
+        "longName": "United States of America",
+        "shortName": "US"
+      }
+    ],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--5e367b93-e8c6-b272-b52b-dae9db3e2e50",
+    "collectionTitle": "Malspam Campaign Targets UK",
+    "collectionWikiContent": "",
+    "collectionId": "5e367b93e8c6b272b52bdae9db3e2e50",
+    "owner": "",
+    "tags": [
+      "x-industry:europe",
+      "phishing",
+      "x-risk:36",
+      "xftas",
+      "malware",
+      "advisory",
+      "email"
+    ],
+    "tlp": "",
+    "created": "2018-12-12T15:00:12.155Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 36,
+    "x_ibm_relevance_score": 36,
+    "x_ibm_affected_industries": [
+      {
+        "longName": "Europe",
+        "shortName": "europe",
+        "key": "europe"
+      }
+    ],
+    "x_ibm_affected_countries": [],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--5cab3c46-edc8-1f84-7174-dbefabb6d866",
+    "collectionTitle": "OSX Based Coin-Mining Malware",
+    "collectionWikiContent": "",
+    "collectionId": "5cab3c46edc81f847174dbefabb6d866",
+    "owner": "",
+    "tags": [
+      "coinminer",
+      "advisory",
+      "malware",
+      "osx",
+      "x-risk:30",
+      "xftas"
+    ],
+    "tlp": "",
+    "created": "2018-12-12T14:38:44.000Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 30,
+    "x_ibm_relevance_score": 30,
+    "x_ibm_affected_industries": [],
+    "x_ibm_affected_countries": [],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--77c6a32f-ca2e-2280-70e2-7e403a951885",
+    "collectionTitle": "Market Flooded By Pay-Per-Install Company With Unwanted Programs",
+    "collectionWikiContent": "",
+    "collectionId": "77c6a32fca2e228070e27e403a951885",
+    "owner": "",
+    "tags": [
+      "xftas",
+      "advisory",
+      "pup",
+      "x-risk:33"
+    ],
+    "tlp": "",
+    "created": "2018-12-11T14:49:45.825Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 33,
+    "x_ibm_relevance_score": 33,
+    "x_ibm_affected_industries": [],
+    "x_ibm_affected_countries": [],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--c21e17d5-c4f3-d92d-9dd7-e4da3efc7eb8",
+    "collectionTitle": "Recent Additions to Lokibot Campaign",
+    "collectionWikiContent": "",
+    "collectionId": "c21e17d5c4f3d92d9dd7e4da3efc7eb8",
+    "owner": "",
+    "tags": [
+      "campaign",
+      "advisory",
+      "x-risk:36",
+      "malware",
+      "xftas"
+    ],
+    "tlp": "",
+    "created": "2018-12-11T14:44:35.941Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 36,
+    "x_ibm_relevance_score": 36,
+    "x_ibm_affected_industries": [],
+    "x_ibm_affected_countries": [],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--acb90d0d-41d8-7837-225f-9a81e5b8ff94",
+    "collectionTitle": "New Campaign Delivers Trickbot Banking Trojan",
+    "collectionWikiContent": "",
+    "collectionId": "acb90d0d41d87837225f9a81e5b8ff94",
+    "owner": "",
+    "tags": [
+      "malware",
+      "x-risk:36",
+      "xftas",
+      "campaign",
+      "trojan",
+      "advisory",
+      "email"
+    ],
+    "tlp": "",
+    "created": "2018-12-11T14:39:39.455Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 36,
+    "x_ibm_relevance_score": 36,
+    "x_ibm_affected_industries": [],
+    "x_ibm_affected_countries": [],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--8d7dd15c-88d1-8ad3-0312-5a04ffaaa339",
+    "collectionTitle": "Hide ‘N Seek Botnet",
+    "collectionWikiContent": "",
+    "collectionId": "8d7dd15c88d18ad303125a04ffaaa339",
+    "owner": "",
+    "tags": [
+      "xftas",
+      "malware",
+      "iot",
+      "advisory",
+      "x-risk:50",
+      "botnet"
+    ],
+    "tlp": "",
+    "created": "2018-12-11T14:37:48.197Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 50,
+    "x_ibm_relevance_score": 50,
+    "x_ibm_affected_industries": [],
+    "x_ibm_affected_countries": [],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--2f7d8d95-9687-8ff1-c7e4-d4a7852ab1ee",
+    "collectionTitle": "Butter Campaign and SSH Attack",
+    "collectionWikiContent": "",
+    "collectionId": "2f7d8d9596878ff1c7e4d4a7852ab1ee",
+    "owner": "",
+    "tags": [
+      "xftas",
+      "campaign",
+      "advisory",
+      "x-risk:57",
+      "malware",
+      "cybercrime",
+      "coinminer"
+    ],
+    "tlp": "",
+    "created": "2018-12-10T13:26:57.283Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 57,
+    "x_ibm_relevance_score": 57,
+    "x_ibm_affected_industries": [],
+    "x_ibm_affected_countries": [],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--b61e3705-6142-13f5-c7a3-aabd50fdeff1",
+    "collectionTitle": "TV-License Phishing Scam Tricks UK Users Into Giving Personal Information",
+    "collectionWikiContent": "",
+    "collectionId": "b61e3705614213f5c7a3aabd50fdeff1",
+    "owner": "",
+    "tags": [
+      "xftas",
+      "phishing",
+      "campaign",
+      "advisory",
+      "x-risk:42",
+      "email"
+    ],
+    "tlp": "",
+    "created": "2018-12-10T13:21:01.014Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 42,
+    "x_ibm_relevance_score": 42,
+    "x_ibm_affected_industries": [],
+    "x_ibm_affected_countries": [],
+    "x_ibm_threat_type": "Threat Activity"
+  },
+  {
+    "type": "x-xfe-collection",
+    "id": "x-xfe-collection--a6b0a307-9f4e-a336-51b1-4c0627c2d5e8",
+    "collectionTitle": "BackSwap Banking Trojan",
+    "collectionWikiContent": "",
+    "collectionId": "a6b0a3079f4ea33651b14c0627c2d5e8",
+    "owner": "",
+    "tags": [
+      "advisory",
+      "xftas",
+      "bankingtrojan",
+      "malware",
+      "x-risk:31"
+    ],
+    "tlp": "",
+    "created": "2018-12-07T14:59:23.590Z",
+    "modified": "2018-12-18T16:37:55.130Z",
+    "x_ibm_iris_xforce_onset_score": 31,
+    "x_ibm_relevance_score": 31,
+    "x_ibm_affected_industries": [],
+    "x_ibm_affected_countries": [],
+    "x_ibm_threat_type": "Threat Activity"
+  }
+]
