@@ -8,7 +8,7 @@ Currently connecting to Socket.IO rooms is the only supported connection method.
 
 To connect to a Socket.IO server, use a URL such as:
 
-`http://localhost/:3000/myroom`
+`http://localhost:3000/myroom`
 
 So far referencing this library in a .NET 4.7 project works but not in ASP.NET
 Core.  When connecting inside an ASP.NET Core project, the final handshake 
