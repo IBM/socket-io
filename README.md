@@ -3,6 +3,26 @@
 Offers the ability to connect to Socket.IO servers using C#.  Built using .NET
 Standard 2.0.
 
+## Example
+
+The following C# code works for .NET 4.7.2:
+
+```this.mediator = new SocketMediator(this.endpointUrl);
+var task = this.mediator.InitConnection(new SampleHttpClientFactory(), new ClientSocketFactory());
+var awaiter = task.GetAwaiter();
+
+awaiter.OnCompleted(() => 
+{
+    if(task.IsFaulted)
+    {
+      this.ShowError("Could not connect to endpointUrl!");
+    }
+    else
+    {
+        this.ShowMessage("Connected Successfully");
+    }
+});```
+
 ## Known Limitations
 Currently connecting to Socket.IO rooms is the only supported connection method.
 
