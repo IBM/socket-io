@@ -7,7 +7,8 @@ Standard 2.0.
 
 The following C# code works for .NET 4.7.2:
 
-```this.mediator = new SocketMediator(this.endpointUrl);
+```
+this.mediator = new SocketMediator(this.endpointUrl);
 var task = this.mediator.InitConnection(new SampleHttpClientFactory(), new ClientSocketFactory());
 var awaiter = task.GetAwaiter();
 
@@ -21,7 +22,8 @@ awaiter.OnCompleted(() =>
     {
         this.ShowMessage("Connected Successfully");
     }
-});```
+});
+```
 
 ## Known Limitations
 Currently connecting to Socket.IO rooms is the only supported connection method.
